@@ -63,7 +63,7 @@ These analyses help identify **cost trends, shipping patterns, and operational i
 
 ## Insurance Cost vs Shipment Weight
 
-![Insurance Cost vs Weight](visuals/insurance_cost_vs_weight.png)
+![Insurance Cost vs Weight](visuals/Insurance_cost_vs_weight.png)
 
 ---
 
