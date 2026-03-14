@@ -105,7 +105,14 @@ fedex-logistics-performance-analysis
 └── README.md
 ---
 
+## Power BI Dashboard
+
+An interactive dashboard was built in Power BI to visualize logistics performance metrics and shipment cost patterns.
+
+The dashboard file can be downloaded here:
+
+powerbi/fedex_logistics_dashboard.pbix
+
 # Author
 
-**Ashwin Shende**
-
+Ashwin Shende
